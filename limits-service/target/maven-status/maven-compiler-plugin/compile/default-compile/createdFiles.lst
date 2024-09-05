@@ -1,0 +1,4 @@
+com\guillevier\microservices\limitsservice\LimitsServiceApplication.class
+com\guillevier\microservices\limitsservice\bean\LimitConfiguration.class
+com\guillevier\microservices\limitsservice\Configuration.class
+com\guillevier\microservices\limitsservice\LimitsConfigurationController.class

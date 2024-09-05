@@ -1,0 +1,4 @@
+com\guillevier\microservices\currencyconversionservice\CurrencyConversionBean.class
+com\guillevier\microservices\currencyconversionservice\CurrencyConversionServiceApplication.class
+com\guillevier\microservices\currencyconversionservice\CurrencyConversionController.class
+com\guillevier\microservices\currencyconversionservice\CurrencyExchangeServiceProxy.class
